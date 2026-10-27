@@ -1,7 +1,0 @@
-com.example.mis_app-debug-0 C:\Users\ASUS\Documents\PT3-Makromedia-Project-Management\mobile-fe-makromedia-integrated-system\MobileApps_MIS\android\app\src\debug\res
-com.example.mis_app-main-1 C:\Users\ASUS\Documents\PT3-Makromedia-Project-Management\mobile-fe-makromedia-integrated-system\MobileApps_MIS\android\app\src\main\res
-com.example.mis_app-pngs-2 C:\Users\ASUS\Documents\PT3-Makromedia-Project-Management\mobile-fe-makromedia-integrated-system\MobileApps_MIS\build\app\generated\res\pngs\debug
-com.example.mis_app-updated_navigation_xml-3 C:\Users\ASUS\Documents\PT3-Makromedia-Project-Management\mobile-fe-makromedia-integrated-system\MobileApps_MIS\build\app\generated\updated_navigation_xml\debug
-com.example.mis_app-packageDebugResources-4 C:\Users\ASUS\Documents\PT3-Makromedia-Project-Management\mobile-fe-makromedia-integrated-system\MobileApps_MIS\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.mis_app-packageDebugResources-5 C:\Users\ASUS\Documents\PT3-Makromedia-Project-Management\mobile-fe-makromedia-integrated-system\MobileApps_MIS\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.mis_app-debug-6 C:\Users\ASUS\Documents\PT3-Makromedia-Project-Management\mobile-fe-makromedia-integrated-system\MobileApps_MIS\build\app\intermediates\merged_res\debug\mergeDebugResources

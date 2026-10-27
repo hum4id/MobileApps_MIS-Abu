@@ -1,2 +1,0 @@
-C:/Users/ASUS/Documents/PT3-Makromedia-Project-Management/mobile-fe-makromedia-integrated-system/MobileApps_MIS/build/.cxx/debug/3k586k2s/x86_64/CMakeFiles/edit_cache.dir
-C:/Users/ASUS/Documents/PT3-Makromedia-Project-Management/mobile-fe-makromedia-integrated-system/MobileApps_MIS/build/.cxx/debug/3k586k2s/x86_64/CMakeFiles/rebuild_cache.dir
