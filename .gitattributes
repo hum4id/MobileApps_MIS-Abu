@@ -1,0 +1,7 @@
+/.dart_tool/flutter_build/383442aa4694e80a017e1804827706e6/app.dill filter=lfs diff=lfs merge=lfs -text
+/build/11f9252fab9bb4424d40abfb06fd5e81.cache.dill.track.dill filter=lfs diff=lfs merge=lfs -text
+/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/kernel_blob.bin filter=lfs diff=lfs merge=lfs -text
+/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin filter=lfs diff=lfs merge=lfs -text
+/build/app/intermediates/merged_native_libs/debug/mergeDebugNativeLibs/out/lib/x86_64/libflutter.so filter=lfs diff=lfs merge=lfs -text
+/build/app/outputs/apk/debug/app-debug.apk filter=lfs diff=lfs merge=lfs -text
+/build/app/outputs/flutter-apk/app-debug.apk filter=lfs diff=lfs merge=lfs -text

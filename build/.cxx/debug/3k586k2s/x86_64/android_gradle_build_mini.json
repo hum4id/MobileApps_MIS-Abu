@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\ASUS\\develop\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\scripts\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\ASUS\\Documents\\PT3-Makromedia-Project-Management\\mobile-fe-makromedia-integrated-system\\MobileApps_MIS\\build\\.cxx\\debug\\3k586k2s\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\ASUS\\Documents\\PT3-Makromedia-Project-Management\\mobile-fe-makromedia-integrated-system\\MobileApps_MIS\\build\\.cxx\\debug\\3k586k2s\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
