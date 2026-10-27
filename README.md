@@ -1,6 +1,6 @@
 # Makromedia Integrated Mobile Apps
 
-A new Flutter project.
+A new Flutter project (On-Progress)
 
 ## Getting Started
 
